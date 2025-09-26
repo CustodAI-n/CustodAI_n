@@ -1,2 +1,5 @@
 # CustodAI_n
-We are building a grassroots, open-source platform to design, build and deploy upcycled robots that create and maintain biodiverse permaculture systems — making solarpunk landscapes tangible, scalable, and community-driven.
+Let's make Solarpunk a reality. 
+We'll build an open source, community driven platform for developing robots made from 
+upcycled parts that are to foster bio-dynamic, regenerative and crop-productive landscapes 
+just as sustainable as them! 
